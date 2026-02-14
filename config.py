@@ -1,3 +1,4 @@
 TOKEN = "8540030986:AAEXHt-5BgY6yRJffRU4SY8wD8PZq-5hx6Y"
 ADMIN_ID = 1972494449
-GEMINI_KEY = "AIzaSyCoRNLVp8YVmzNhxatKpbzmqA8MOUIEs70"
+CHANNEL = "@kenan_mod_2"
+CHANNEL_LINK = "https://t.me/kenan_mod_2"
